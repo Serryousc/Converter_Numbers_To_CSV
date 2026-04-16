@@ -1,4 +1,4 @@
-# 🇺🇸 English Version Converter_Numbers_To_CSV
+# 🇺🇸 Converter_Numbers_To_CSV
 
 A simple script to convert .numbers files into .csv format.
 
@@ -9,6 +9,7 @@ This script scans a folder for .numbers files and converts them into .csv files,
 ⚙️ Requirements
 Python 3.x installed
 Can be executed via IDLE or terminal
+
 ▶️ Usage
 Place the script in the same folder as your .numbers files.
 Run the script:
@@ -47,6 +48,7 @@ Este script percorre todos os arquivos .numbers em uma pasta e os converte para 
 ⚙️ Requisitos
 Python instalado (3.x)
 Executar via IDLE ou terminal
+
 ▶️ Como usar
 Coloque o script na mesma pasta onde estão os arquivos .numbers.
 Execute o script:
